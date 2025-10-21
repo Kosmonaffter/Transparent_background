@@ -46,7 +46,7 @@ pyinstaller --onefile --windowed --icon=icon/Icon_apps_T.ico --name ConvertImage
 bash
 python build.py
 ## 📁 Структура проекта
-
+``` python
 Transparent_background/
 ├── dist/ # Готовые исполняемые файлы
 │ └── ConvertImages_T.exe
@@ -59,7 +59,7 @@ Transparent_background/
 ├── backend.py # Логика обработки изображений
 ├── requirements.txt # Зависимости проекта
 └── README.md # Документация
-
+```
 🎯 Как использовать
 Запустите приложение - откройте ConvertImages_T.exe
 
