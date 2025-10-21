@@ -2,7 +2,6 @@ ConvertImagesTransparent
 ![alt text](image.png)
 Приложение для автоматического удаления белого фона с изображений и создания прозрачного PNG.
 
-https://via.placeholder.com/600x200/4A90E2/FFFFFF?text=ConvertImagesTransparent
 
 ✨ Возможности
 Удаление белого фона - автоматическое определение и удаление белого фона
